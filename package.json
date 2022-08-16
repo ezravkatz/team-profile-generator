@@ -1,7 +1,7 @@
 {
   "name": "team profile generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application that generates team profiles.",
   "main": "app.js",
   "scripts": {
     "test": "jest"
